@@ -321,7 +321,6 @@ Found a bug? Have an idea? Want to contribute?
 
 ## 🎯 Statistics
 
-- **Lines of Code:** 2,100+
 - **Payloads:** 20+
 - **Supported Platforms:** 3 (Windows, Mac, Linux)
 - **Python Version:** 3.8+
@@ -375,4 +374,5 @@ If you find this tool useful:
 **Last Updated:** February 2, 2026  
 **Status:** Production Ready ✅  
 **Maintained By:** (rastthack)
+
 
