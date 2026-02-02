@@ -366,7 +366,7 @@ If you find this tool useful:
 ## Made with ❤️ by rastthack
 
 ### Security is not a feature, it's a responsibility.
-
+⭐ Star on GitHub
 </div>
 
 ---
