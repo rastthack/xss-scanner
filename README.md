@@ -350,16 +350,6 @@ If you find this tool useful:
 
 ---
 
-## 📋 Changelog
-
-### Version 3.0.0
-- ✅ Initial public release
-- ✅ 20+ XSS payloads
-- ✅ Smart detection algorithm
-- ✅ Cross-platform support
-- ✅ Professional reporting
-
----
 
 <div align="center">
 
@@ -374,5 +364,6 @@ If you find this tool useful:
 **Last Updated:** February 2, 2026  
 **Status:** Production Ready ✅  
 **Maintained By:** (rastthack)
+
 
 
